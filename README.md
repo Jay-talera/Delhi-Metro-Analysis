@@ -37,31 +37,41 @@ I am a student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.
 
 ### 🛠️ Languages and Tools :
 <div id="badges" align="center">
+  
   <a href="https://www.python.org/">
     <img src="https://img.shields.io/badge/Python-blue?style=flat&logo=Python&logoColor=yellow" alt="Python Badge"/>
   </a>
+  
   <a href="https://scikit-learn.org/stable/index.html">
     <img src="https://img.shields.io/badge/Scikit--learn-blue?style=flat&logo=scikit-learn&logoColor=yellow" alt="Sklearn Badge"/>
   </a>
+  
   <a href="https://www.anaconda.com/">
     <img src="https://img.shields.io/badge/Anaconda-blue?style=flat&logo=Anaconda&logoColor=green" alt="Anaconda Badge"/>
   </a>
+  
  <a href="https://jupyter.org/">
     <img src="https://img.shields.io/badge/Jupyter-blue?style=flat&logo=Jupyter&logoColor=green" alt="Jupyter Badge"/>
   </a>
+  
    <a href="https://pandas.pydata.org/">
     <img src="https://img.shields.io/badge/Pandas-blue?style=flat&logo=Pandas&logoColor=green" alt="Pandas Badge"/>
   </a>
+  
    <a href="https://numpy.org/">
     <img src="https://img.shields.io/badge/Numpy-blue?style=flat&logo=Numpy&logoColor=white" alt="Numpy Badge"/>
   </a>
+  
    <a href="https://www.kaggle.com/">
     <img src="https://img.shields.io/badge/Kaggle-blue?style=flat&logo=Kaggle&logoColor=yellow" alt="Kaggle Badge"/>
   </a>
+  
    <a href="https://github.com/">
     <img src="https://img.shields.io/badge/Github-blue?style=flat&logo=github&logoColor=black" alt="Github Badge"/>
   </a>
+  
    <a href="https://git-scm.com/">
     <img src="https://img.shields.io/badge/Git-blue?style=flat&logo=git&logoColor=orange" alt="Git Badge"/>
   </a>
+  
 </div>
